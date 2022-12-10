@@ -50,4 +50,11 @@ title: "Astrola Music"
     </a>
   </div>
 
+  <div class="mb-12">
+    <div class="grid md:grid-cols-2 gap-12">
+      <a href="/assets/img/astrola-press-1.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-press-1.jpg" alt="astrola scott" class="w-full"></a>
+      <a href="/assets/img/astrola-press-2.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-press-2.jpg" alt="astrola scott guitar" class="w-full"></a>
+    </div>
+  </div>
+
 </div>
