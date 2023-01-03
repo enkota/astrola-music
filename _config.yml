@@ -1,6 +1,6 @@
 url: 'https://astrolamusic.com'
 baseurl: ''
-title: 'Closer Out Now'
+title: 'Follow me on Spotify'
 
 plugins:
   - jekyll-postcss
