@@ -6,10 +6,6 @@ title: "Astrola Music"
 <div class="py-24 max-w-xl px-6 mx-auto text-center text-white relative">
   <h1 class="text-4xl font-bold uppercase tracking-widest mb-6">Astrola</h1>
 
-  <div class="uppercase font-semibold text-xl tracking-widest mb-1">New Album</div>
-
-  <div class="uppercase text-sm tracking-wider opacity-70 mb-2">Coming out in 2023</div>
-
   <div class="mt-6 mb-12">
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6mktKSmcUr3wXQxEz8dWei?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
@@ -34,11 +30,7 @@ title: "Astrola Music"
   <div class="uppercase font-semibold text-xl tracking-widest mb-4">About</div>
     <div class="opacity-70">
       <p>
-        Scott (Astrola) has grown up under the influence of rock/alternative focussed genres throughout his earlier years. In 2020, Scott took interest in synth-style music and started the music project - Astrola. 
-        <br><br>
-        Astrola's music is heavily inspired by artists under the Anjunadeep/This Never Happened labels, artists include; Ben Bohmer and Lane 8. Scott's style has influenced elements of his band 'Take Tonight' with the use of heavy delays and electronic melodies to carve his sound.
-        <br><br>
-        In 2023, Scott hopes to release an album with a clear plan of musical style he wants to take the Astrola project.
+        Working on it... back soon.
       </p>
     </div>
   </div>
