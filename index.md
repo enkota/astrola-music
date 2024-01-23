@@ -1,51 +1,57 @@
 ---
 layout: default
-title: "Astrola Music"
+title: 'Astrola Music'
 ---
 
-<div class="py-24 max-w-xl px-6 mx-auto text-center text-white relative">
-  <h1 class="text-4xl font-bold uppercase tracking-widest mb-6">Astrola</h1>
+<div class="pt-16 md:py-24 max-w-xl px-6 mx-auto text-center text-white relative">
+  <h1 class="text-2xl font-semibold uppercase tracking-widest mb-6">Astrola</h1>
 
   <div class="mt-6 mb-12">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6mktKSmcUr3wXQxEz8dWei?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <img src="/assets/img/astrola-press-1.jpg" alt="In These Moments" class="max-w-sm w-full mx-auto shadow-lg"/>
+    <p class="text-sm mt-6">
+      Debut Album "In These Moments" - Coming 2024
+    </p>
   </div>
 
   <div class="mb-4">
-    <div class="uppercase font-semibold text-xl tracking-widest mb-4">Socials</div>
-
-    <!-- <a href="https://linktr.ee/astrola" target="_blank">
-      <button class="bg-blue-500 text-white px-6 py-2 uppercase tracking-wide rounded-full hover:bg-opacity-80 text-sm hover:transition-all hover:duration-300">Music Links</button>
-    </a> -->
+    <div class="uppercase font-medium text-lg tracking-widest mb-4">Socials</div>
   </div>
 
-  <div class="mb-12">
-    <div class="mb-2"><a class="underline" href="https://tiktok.com/@astrola" target="_blank">TikTok</a></div>
-    <div class="mb-2"><a class="underline" href="https://twitter.com/astrolamusic" target="_blank">Twitter</a></div>
+  <div class="mb-12 text-sm">
     <div class="mb-2"><a class="underline" href="https://open.spotify.com/artist/1j0M2tya71KeHX2i0cRmOt" target="_blank">Spotify</a></div>
+    <div class="mb-2"><a class="underline" href="https://tiktok.com/@astrola" target="_blank">TikTok</a></div>
     <div class="mb-2"><a class="underline" href="https://www.youtube.com/@astrola" target="_blank">YouTube</a></div>
-    <div class=""><a class="underline" href="https://instagram.com/astrolamusic" target="_blank">Instagram</a></div>
+    <div class="mb-2"><a class="underline" href="https://instagram.com/astrolamusic" target="_blank">Instagram</a></div>
+    <div class="mb-0"><a class="underline" href="https://twitter.com/astrolamusic" target="_blank">X</a></div>
   </div>
   
   <div class="bio mb-12">
-  <div class="uppercase font-semibold text-xl tracking-widest mb-4">About</div>
+  <div class="uppercase font-medium text-lg tracking-widest mb-4">About</div>
     <div class="opacity-70">
-      <p>
-        Working on it... back soon.
-      </p>
-    </div>
+      <p class="text-sm">
+        Astrola, also known as Scott Ramsay, is a 30-year-old producer from Glasgow, Scotland. Drawing inspiration from producers such as Ben Böhmer, Lane 8, Marsh, Klur, Sultan + Shepard and CRi, his signature sound is characterized by chilled yet cinematic melodies, inviting listeners to immerse themselves in the moment.
+        <br><br>
+        In 2024, Astrola is set to unveil his debut album, "In These Moments" — a meticulously crafted collection of eleven tracks. The release, which is over a year in the making, aims to provide a sonic experience that evokes deep emotion and representation of his sound moving forward.
+        <br><br>
+        Taking inspiration from the landscapes of his homeland in Scotland, the fusion of melodic traditions in electronic music forms the foundation of Astrola's artistic expression, marking his presence in the evolving genre of melodic deep house.
+        <br><br>
+        As the release of "In These Moments" approaches, Astrola looks forward to sharing his music and delivering captivating live performances.
+</p>
+</div>
+
   </div>
 
-
   <div class="mb-12">
-    <div class="uppercase font-semibold text-xl tracking-widest mb-4">Press Pack</div>
+    <div class="uppercase font-medium text-lg tracking-widest mb-4">Press Pack</div>
 
     <a href="https://www.dropbox.com/sh/uouow6gxph3u3uq/AAAa6X7Nn3f6eJsW1DxJNhLIa?dl=0" target="_blank">
-      <button class="bg-blue-500 text-white px-6 py-2 uppercase tracking-wide rounded-full hover:bg-opacity-80 text-sm hover:transition-all hover:duration-300">Download Press Pack</button>
+      <button class="bg-white text-black px-4 py-2 uppercase tracking-wider hover:bg-opacity-80 text-xs hover:transition-all hover:duration-300">Download</button>
     </a>
+
   </div>
 
   <div class="mb-12">
-    <div class="grid md:grid-cols-2 gap-12">
+    <div class="grid grid-cols-2 gap-4 md:gap-12">
       <a href="/assets/img/astrola-press-1.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-press-1.jpg" alt="astrola scott" class="w-full"></a>
       <a href="/assets/img/astrola-press-2.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-press-2.jpg" alt="astrola scott guitar" class="w-full"></a>
     </div>

@@ -1,44 +1,10 @@
 ---
 ---
 
-@font-face {
-    font-family: 'Graphik';
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Bold.woff") format("woff");
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Bold.woff2") format("woff2");
-    font-weight: 800;
-}
 
-@font-face {
-    font-family: 'Graphik';
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Semibold.woff") format("woff");
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Semibold.woff2") format("woff2");
-    font-weight: 700;
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Medium-Web.woff") format("woff");
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Medium-Web.woff2") format("woff2");
-    font-weight: 600;
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Regular-Web.woff") format("woff");
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-Regular-Web.woff2") format("woff2");
-    font-weight: 500;
-}
-
-@font-face {
-    font-family: 'Graphik';
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-RegularItalic-Web.woff") format("woff");
-    src: url("https://cdn.jsdelivr.net/gh/scottxtensive/wrap-co/Graphik-RegularItalic-Web.woff2") format("woff2");
-    font-weight: 500;
-    font-style: italic;
-}
 
 body {
-    font-family: "Graphik", sans-serif !important;
+    font-family: "Satoshi", sans-serif !important;
 }
 
 @tailwind base;
