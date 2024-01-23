@@ -8,7 +8,7 @@ title: 'Astrola Music'
 
   <div class="mt-6 mb-12">
     <img src="/assets/img/astrola-press-1.jpg" alt="In These Moments" class="max-w-sm w-full mx-auto shadow-lg"/>
-    <p class="text-sm mt-6">
+    <p class="text-sm mt-6 opacity-70">
       Debut Album "In These Moments" - Coming 2024
     </p>
   </div>
@@ -18,11 +18,11 @@ title: 'Astrola Music'
   </div>
 
   <div class="mb-12 text-sm">
-    <div class="mb-2"><a class="underline" href="https://open.spotify.com/artist/1j0M2tya71KeHX2i0cRmOt" target="_blank">Spotify</a></div>
-    <div class="mb-2"><a class="underline" href="https://tiktok.com/@astrola" target="_blank">TikTok</a></div>
-    <div class="mb-2"><a class="underline" href="https://www.youtube.com/@astrola" target="_blank">YouTube</a></div>
-    <div class="mb-2"><a class="underline" href="https://instagram.com/astrolamusic" target="_blank">Instagram</a></div>
-    <div class="mb-0"><a class="underline" href="https://twitter.com/astrolamusic" target="_blank">X</a></div>
+    <div class="mb-2"><a class="underline opacity-70 hover:opacity-100 transition-all duration-300" href="https://open.spotify.com/artist/1j0M2tya71KeHX2i0cRmOt" target="_blank">Spotify</a></div>
+    <div class="mb-2"><a class="underline opacity-70 hover:opacity-100 transition-all duration-300" href="https://tiktok.com/@astrola" target="_blank">TikTok</a></div>
+    <div class="mb-2"><a class="underline opacity-70 hover:opacity-100 transition-all duration-300" href="https://www.youtube.com/@astrola" target="_blank">YouTube</a></div>
+    <div class="mb-2"><a class="underline opacity-70 hover:opacity-100 transition-all duration-300" href="https://instagram.com/astrolamusic" target="_blank">Instagram</a></div>
+    <div class="mb-0"><a class="underline opacity-70 hover:opacity-100 transition-all duration-300" href="https://twitter.com/astrolamusic" target="_blank">X</a></div>
   </div>
   
   <div class="bio mb-12">
