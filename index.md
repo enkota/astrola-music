@@ -7,7 +7,7 @@ title: 'Astrola Music'
   <h1 class="text-2xl font-semibold uppercase tracking-widest mb-6">Astrola</h1>
 
   <div class="mt-6 mb-12">
-    <img src="/assets/img/astrola-press-1.jpg" alt="In These Moments" class="max-w-sm w-full mx-auto shadow-lg"/>
+    <img src="/assets/img/bg.jpg" alt="In These Moments" class="max-w-sm w-full mx-auto shadow-lg"/>
     <p class="text-sm mt-6 opacity-70">
       Debut Album "In These Moments" - Coming 2024
     </p>
@@ -51,9 +51,11 @@ title: 'Astrola Music'
   </div>
 
   <div class="mb-12">
-    <div class="grid grid-cols-2 gap-4 md:gap-12">
-      <a href="/assets/img/astrola-press-1.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-press-1.jpg" alt="astrola scott" class="w-full"></a>
-      <a href="/assets/img/astrola-press-2.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-press-2.jpg" alt="astrola scott guitar" class="w-full"></a>
+    <div class="grid grid-cols-2 gap-4 md:gap-4">
+      <a href="/assets/img/astrola-1.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-1.jpg" alt="astrola scott" class="w-full"></a>
+      <a href="/assets/img/astrola-2.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-2.jpg" alt="astrola scott" class="w-full"></a>
+      <a href="/assets/img/astrola-3.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-3.jpg" alt="astrola scott" class="w-full"></a>
+      <a href="/assets/img/astrola-7.jpg" data-fancybox="gallery"><img src="/assets/img/astrola-7.jpg" alt="astrola scott" class="w-full"></a>
     </div>
   </div>
 
