@@ -30,7 +30,7 @@ title: 'Astrola Music'
   <div class="uppercase font-medium text-lg tracking-widest mb-4">About</div>
     <div class="opacity-70">
       <p class="text-sm">
-        Astrola, also known as Scott Ramsay, is a 30-year-old producer from Glasgow, Scotland. Drawing inspiration from producers such as Ben Böhmer, Lane 8, Marsh, Klur, Sultan + Shepard and CRi, his signature sound is characterized by chilled yet cinematic melodies, inviting listeners to immerse themselves in the moment.
+        Astrola, also known as Scott Ramsay, is a producer from Glasgow, Scotland. Drawing inspiration from producers such as Ben Böhmer, Lane 8, Marsh, Klur, Sultan + Shepard and CRi, his signature sound is characterized by chilled yet cinematic melodies, inviting listeners to immerse themselves in the moment.
         <br><br>
         On April 26th 2024, Astrola released his debut album, "In These Moments" — a meticulously crafted collection of eleven tracks. The release, which was over a year in the making, aims to provide a sonic experience that evokes deep emotion and representation of his sound moving forward.
         <br><br>
