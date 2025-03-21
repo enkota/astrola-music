@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /assets/
+Disallow: /admin/
+Disallow: /private/
+Sitemap: https://astrolamusic.com/sitemap.xml 
